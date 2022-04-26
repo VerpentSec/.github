@@ -1,6 +1,6 @@
 # This is the Github of the Verpent Blog. 
 
-#Please feel free to study, copy, redistribute and fork all the tools, resources and code we host here.
+# Please feel free to study, copy, redistribute and fork all the tools, resources and code we host here.
 
 In this blog we write about interesting Adversarial Developments, Pen-Testing topics and Information Security in general. 
 
